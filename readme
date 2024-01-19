@@ -8,3 +8,6 @@ https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
+
+#EXTINF: 1 tvg-logo="https://i.postimg.cc/QN4p9pFV/value.png" group-title="AFC ASIAN CUP 2023", BEIN ASIAN CUP 2 FHD
+https://hls.streambtw.com/live/stream_5.m3u8
